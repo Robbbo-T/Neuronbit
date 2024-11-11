@@ -1,15 +1,11 @@
-README.md
 
 # NEURONBIT
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 
 ## Descripción
 
-**NEURONBIT** es una teoría innovadora que conceptualiza el universo como una red neuronal cuántica. Esta teoría integra principios de la mecánica cuántica y las redes neuronales para modelar fenómenos físicos complejos y emergentes. Este repositorio contiene la documentación completa de la teoría, así como guías y ejemplos prácticos para implementar y experimentar con redes neuronales cuánticas basadas en NEURONBIT.
-
-## Índice
+**NEURONBIT** es una teoría innovadora que conceptualiza el universo como una red neuronal cuántica. Esta teoría integra principios de la mecánica cuántica y las redes neuronales para modelar fenómenos físicos complejos y emergentes. Este repositorio contiene la documentación completa de la teoría, así como guías y ejemplos prácticos para implementar y experimentar con redes neuronales cuánticas 
 
 - [Características](#características)
 - [Estructura del Repositorio](#estructura-del-repositorio)
@@ -1709,9 +1705,9 @@ Después de ejecutar el script, verifica que todas las carpetas y archivos se ha
 
 Notas Adicionales
 
-   •   Personalización: Puedes modificar el script setup_neuronbit.sh para añadir más archivos o cambiar el contenido según tus necesidades.
-   •   Seguridad: Siempre revisa el contenido de los scripts antes de ejecutarlos para asegurarte de que no contienen comandos no deseados.
-   •   Actualizaciones: Si añades nuevos archivos en el futuro, actualiza el script para incluirlos automáticamente.
+   •   Personalización: Puedes modificar el script setup_neuronbit.sh para añadir más archivos o cambiar el contenido según tus necesidades.
+   •   Seguridad: Siempre revisa el contenido de los scripts antes de ejecutarlos para asegurarte de que no contienen comandos no deseados.
+   •   Actualizaciones: Si añades nuevos archivos en el futuro, actualiza el script para incluirlos automáticamente.
 
 Conclusión
 
@@ -1781,6 +1777,3 @@ El script `setup_neuronbit.sh` automatiza la creación de la estructura de carpe
 
 Aunque GitHub no permite ejecutar scripts automáticamente al hacer commit, este enfoque te permite establecer una estructura de proyecto coherente y completa que cualquier colaborador puede replicar fácilmente. Al proporcionar un script de configuración y una documentación clara, aseguras que el entorno de desarrollo esté listo para trabajar de manera eficiente en el proyecto NEURONBIT.
 
-Si tienes alguna pregunta o necesitas asistencia adicional, no dudes en contactarme a través de [Amedeo.pelliccia@gmail.com](mailto:Amedeo.pelliccia@gmail.com).
-
-¡Éxito con tu proyecto NEURONBIT!
