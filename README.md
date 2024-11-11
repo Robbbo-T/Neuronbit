@@ -33,18 +33,18 @@ La estructura de carpetas de NEURONBIT está organizada de la siguiente manera:
 
 La estructura y los elementos del proyecto NEURONBIT están organizados de la siguiente manera:
 
-NEURONBIT/
+# NEURONBIT/
 │
-├── docs/                  # Documentación completa del proyecto, incluyendo teoría, guías de uso y manuales.
-├── notebooks/             # Jupyter Notebooks interactivos para tutoriales y ejemplos prácticos.
-├── src/                   # Código fuente del modelo, algoritmos y funciones auxiliares.
-├── tests/                 # Pruebas unitarias e integración para validar el código.
-├── LICENSE                # Archivo de licencia del proyecto.
-├── README.md              # Documento de introducción y guía del proyecto.
-├── requirements.txt       # Listado de dependencias necesarias para ejecutar el proyecto.
-└── setup_neuronbit.sh     # Script de configuración automática del entorno.
+# ├── docs/                  Documentación completa del proyecto
+# ├── notebooks/             Jupyter Notebooks interactivos para tutoriales y ejemplos
+# ├── src/                    Código fuente del modelo y funciones auxiliares
+# ├── tests/                 Pruebas unitarias e integración
+# ├── LICENSE                Licencia del proyecto
+# ├── README.md              Documento de introducción al proyecto
+# ├── requirements.txt       Dependencias del proyecto
+# └── setup_neuronbit.sh      Script de configuración automática
 
-Descripción Detallada de Cada Carpeta y Archivo
+** Descripción Detallada de Cada Carpeta y Archivo **
 
    •   docs/: Contiene documentación detallada que explica la teoría detrás de NEURONBIT, cómo funciona el modelo, y cómo se debe utilizar y colaborar en el proyecto. Puede incluir diagramas de arquitectura, guías de configuración, y ejemplos de implementación.
    •   notebooks/: Esta carpeta alberga Jupyter Notebooks que muestran ejemplos prácticos y casos de uso. Estos notebooks son ideales para aprender interactuando con el código y explorando las simulaciones de la teoría cuántica y redes neuronales de NEURONBIT.
