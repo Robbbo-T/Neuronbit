@@ -1,37 +1,8 @@
-# NEURONBIT
+Entendido. A continuación, encontrarás el contenido para cada uno de los archivos en tu repositorio NEURONBIT. Simplemente copia y pega cada bloque de código en el archivo correspondiente dentro de tu repositorio.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+1. docs/index.md
 
-## Descripción
-
-NEURONBIT es una teoría innovadora que conceptualiza el universo como una red neuronal cuántica. Esta teoría integra principios de la mecánica cuántica y las redes neuronales para modelar fenómenos físicos complejos y emergentes. Este repositorio contiene la documentación completa de la teoría, así como guías y ejemplos prácticos para implementar y experimentar con redes neuronales cuánticas basadas en NEURONBIT.
-
-## Índice
-
-- [Características](#características)
-- [Estructura del Repositorio](#estructura-del-repositorio)
-- [Instalación](#instalación)
-- [Uso](#uso)
-  - [Notebook Interactivo](#notebook-interactivo)
-- [Documentación](#documentación)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
-
-## Características
-
-- **Teoría Completa**: Documentación detallada de los conceptos fundamentales de NEURONBIT.
-- **Implementación Práctica**: Jupyter Notebooks interactivos para experimentar con redes neuronales cuánticas.
-- **Código Modular**: Código fuente organizado y probado para facilitar el desarrollo y la colaboración.
-- **Documentación Extensiva**: Secciones bien estructuradas que abarcan desde la introducción hasta aplicaciones avanzadas.
-
-## Estructura del Repositorio
-
-NEURONBIT/
-│
-├── docs/
-│   ├── index.md # NEURONBIT - Documentación
+# NEURONBIT - Documentación
 
 Bienvenido a la documentación oficial de NEURONBIT. Aquí encontrarás información detallada sobre la teoría, implementación y aplicaciones de NEURONBIT.
 
@@ -46,7 +17,10 @@ Bienvenido a la documentación oficial de NEURONBIT. Aquí encontrarás informac
 - [Aplicaciones Tecnológicas](aplicaciones_tecnologicas.md)
 - [Apéndices](apendices.md)
 - [Conclusión](conclusion.md)
-│   ├── introduccion.md # 1. Introducción
+
+2. docs/introduccion.md
+
+# 1. Introducción
 
 ## 1.1 Visión General de NEURONBIT
 
@@ -59,7 +33,10 @@ El objetivo principal de NEURONBIT es...
 ## 1.3 Metodología
 
 Descripción de la metodología utilizada en NEURONBIT.
-│   ├── arquitectura_fundamental.md # 2. Arquitectura Fundamental
+
+3. docs/arquitectura_fundamental.md
+
+# 2. Arquitectura Fundamental
 
 ## 2.1 Componentes Principales
 
@@ -68,7 +45,10 @@ Descripción de los componentes fundamentales de NEURONBIT.
 ## 2.2 Interacciones Cuánticas
 
 Explicación de cómo las interacciones cuánticas se integran en la arquitectura.
-│   ├── emergente_cuantico_clasica.md # 3. Emergencia Cuántico-Clásica
+
+4. docs/emergente_cuantico_clasica.md
+
+# 3. Emergencia Cuántico-Clásica
 
 ## 3.1 Transición de Estados Cuánticos a Clásicos
 
@@ -77,7 +57,10 @@ Descripción del proceso de transición.
 ## 3.2 Fenómenos Emergentes
 
 Análisis de fenómenos emergentes dentro de NEURONBIT.
-│   ├── fundamentos_matematicos.md # 4. Fundamentos Matemáticos
+
+5. docs/fundamentos_matematicos.md
+
+# 4. Fundamentos Matemáticos
 
 ## 4.1 Teoría de Redes Neuronales
 
@@ -86,7 +69,10 @@ Descripción de la teoría de redes neuronales aplicada en NEURONBIT.
 ## 4.2 Mecánica Cuántica Aplicada
 
 Explicación de los principios de la mecánica cuántica utilizados.
-│   ├── integracion_principios_fisicos.md # 5. Integración con Principios Físicos
+
+6. docs/integracion_principios_fisicos.md
+
+# 5. Integración con Principios Físicos
 
 ## 5.1 Principios de Conservación
 
@@ -95,8 +81,10 @@ Descripción de cómo se integran los principios de conservación.
 ## 5.2 Leyes de Movimiento
 
 Aplicación de las leyes de movimiento en NEURONBIT.
-│   ├── aplicaciones_experimentales.md
-│   ├── aplicaciones_tecnologicas.md # 6. Aplicaciones Experimentales y Validación
+
+7. docs/aplicaciones_experimentales.md
+
+# 6. Aplicaciones Experimentales y Validación
 
 ## 6.1 Experimentos Realizados
 
@@ -105,7 +93,22 @@ Detalles de los experimentos realizados para validar NEURONBIT.
 ## 6.2 Resultados Obtenidos
 
 Análisis de los resultados obtenidos en los experimentos.
-│   ├── apendices.md # 8. Apéndices y Documentación Complementaria
+
+8. docs/aplicaciones_tecnologicas.md
+
+# 7. Aplicaciones Tecnológicas y Futuras Implicaciones
+
+## 7.1 Tecnología Cuántica
+
+Aplicaciones de NEURONBIT en la tecnología cuántica.
+
+## 7.2 Implicaciones Futuras
+
+Posibles implicaciones futuras de NEURONBIT en diversas áreas.
+
+9. docs/apendices.md
+
+# 8. Apéndices y Documentación Complementaria
 
 ## 8.1 Glosario
 
@@ -114,12 +117,18 @@ Definiciones de términos clave utilizados en NEURONBIT.
 ## 8.2 Referencias
 
 Listado de referencias y bibliografía utilizada.
-│   └── conclusion.md # 9. Conclusión
+
+10. docs/conclusion.md
+
+# 9. Conclusión
 
 Resumen de los hallazgos y conclusiones de NEURONBIT. Reflexiones sobre el impacto y futuras direcciones de la teoría.
-│
-├── notebooks/
-│   └── Introduccion_Practica_a_NEURONBIT.ipynb # Instalación de las bibliotecas necesarias
+
+11. notebooks/Introduccion_Practica_a_NEURONBIT.ipynb
+
+Crea un archivo Jupyter Notebook con el siguiente contenido. Guarda este archivo con la extensión .ipynb dentro de la carpeta notebooks/.
+
+# Instalación de las bibliotecas necesarias
 !pip install qiskit tensorflow-quantum cirq matplotlib
 
 # Importación de librerías
@@ -206,15 +215,16 @@ axs[1].legend()
 
 plt.tight_layout()
 plt.show()
-│
-├── src/
-│   ├── init.py
-│   └── neuronbit_model.py
-│
-├── tests/
-│   ├── init.py # src/__init__.py
 
-from .neuronbit_model import create_circuit, build_model # src/neuronbit_model.py
+12. src/__init__.py
+
+# src/__init__.py
+
+from .neuronbit_model import create_circuit, build_model
+
+13. src/neuronbit_model.py
+
+# src/neuronbit_model.py
 
 import cirq
 import sympy
@@ -239,7 +249,14 @@ def build_model(circuit, qubits):
                   loss='binary_crossentropy',
                   metrics=['accuracy'])
     return model
-│   └── test_neuronbit_model.py # tests/__init__.py # tests/test_neuronbit_model.py
+
+14. tests/__init__.py
+
+# tests/__init__.py
+
+15. tests/test_neuronbit_model.py
+
+# tests/test_neuronbit_model.py
 
 import unittest
 from src.neuronbit_model import create_circuit, build_model
@@ -270,8 +287,10 @@ class TestNeuronBITModel(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-│
-├── LICENSE MIT License
+
+16. LICENSE
+
+MIT License
 
 Copyright (c) 2024 Robbbo-T
 
@@ -289,14 +308,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-├── README.md
-├── requirements.txt qiskit==0.43.0
+
+17. requirements.txt
+
+qiskit==0.43.0
 tensorflow==2.12.0
 tensorflow-quantum==0.11.0
 cirq==0.14.1
 sympy==1.11.1
 matplotlib==3.7.1
-├── .gitignore # Byte-compiled / optimized / DLL files
+
+18. .gitignore
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -318,59 +342,10 @@ venv.bak/
 # Misc
 .DS_Store
 *.log
-└── CONTRIBUTING.md
 
-## Instalación
+19. CONTRIBUTING.md
 
-Sigue estos pasos para configurar el entorno de desarrollo:
-
-1. **Clonar el Repositorio:**
-
-    ```bash
-    git clone https://github.com/Robbbo-T/NEURONBIT.git
-    cd NEURONBIT
-    ```
-
-2. **Crear un Entorno Virtual (Opcional pero Recomendado):**
-
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # En Windows: venv\Scripts\activate
-    ```
-
-3. **Instalar las Dependencias:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Uso
-
-### Notebook Interactivo
-
-Explora e interactúa con los conceptos de NEURONBIT utilizando el Jupyter Notebook proporcionado.
-
-1. **Iniciar Jupyter Notebook:**
-
-    ```bash
-    jupyter notebook
-    ```
-
-2. **Abrir el Notebook:**
-
-    Navega a la carpeta `notebooks/` y abre `Introduccion_Practica_a_NEURONBIT.ipynb`.
-
-3. **Ejecutar el Notebook:**
-
-    Ejecuta las celdas paso a paso para comprender la implementación de una red neuronal cuántica básica basada en NEURONBIT.
-
-## Documentación
-
-La documentación completa del proyecto está disponible en la carpeta `docs/`. Puedes navegar a través de los diferentes archivos Markdown para explorar cada sección detalladamente.
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor, sigue las pautas establecidas en `CONTRIBUTING.md`. # Contribuciones a NEURONBIT
+# Contribuciones a NEURONBIT
 
 ¡Gracias por tu interés en contribuir a NEURONBIT! Para asegurar un proceso fluido y eficiente, por favor, sigue las pautas a continuación.
 
@@ -382,7 +357,7 @@ La documentación completa del proyecto está disponible en la carpeta `docs/`. 
 2. **Clona tu Fork:**
 
     ```bash
-    git clone https://github.com/tu_usuario/NEURONBIT.git
+    git clone https://github.com/Robbbo-T/NEURONBIT.git
     cd NEURONBIT
     ```
 
@@ -422,10 +397,34 @@ Si encuentras algún error, por favor, crea un [Issue](https://github.com/Robbbo
 
 ¡Gracias por contribuir a NEURONBIT!
 
-## Licencia
+20. README.md
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+# NEURONBIT
 
-## Contacto
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 
-Para cualquier consulta o sugerencia, puedes contactarme a través de [Amedeo.pelliccia@gmail.com](mailto:Amedeo.pelliccia@gmail.com).
+## Descripción
+
+NEURONBIT es una teoría innovadora que conceptualiza el universo como una red neuronal cuántica. Esta teoría integra principios de la mecánica cuántica y las redes neuronales para modelar fenómenos físicos complejos y emergentes. Este repositorio contiene la documentación completa de la teoría, así como guías y ejemplos prácticos para implementar y experimentar con redes neuronales cuánticas basadas en NEURONBIT.
+
+## Índice
+
+- [Características](#características)
+- [Estructura del Repositorio](#estructura-del-repositorio)
+- [Instalación](#instalación)
+- [Uso](#uso)
+  - [Notebook Interactivo](#notebook-interactivo)
+- [Documentación](#documentación)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
+
+## Características
+
+- **Teoría Completa**: Documentación detallada de los conceptos fundamentales de NEURONBIT.
+- **Implementación Práctica**: Jupyter Notebooks interactivos para experimentar con redes neuronales cuánticas.
+- **Código Modular**: Código fuente organizado y probado para facilitar el desarrollo y la colaboración.
+- **Documentación Extensiva**: Secciones bien estructuradas que abarcan desde la introducción hasta aplicaciones avanzadas.
+
+## Estructura del Repositorio
