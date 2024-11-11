@@ -31,16 +31,31 @@ El proyecto utiliza herramientas avanzadas en computación cuántica, como Tenso
 
 La estructura de carpetas de NEURONBIT está organizada de la siguiente manera:
 
-# NEURONBIT/
+La estructura y los elementos del proyecto NEURONBIT están organizados de la siguiente manera:
+
+NEURONBIT/
 │
-# ├── docs/                  # Documentación completa del proyecto
-# ├── notebooks/             # Jupyter Notebooks interactivos para tutoriales y ejemplos
-# ├── src/                   # Código fuente del modelo y funciones auxiliares
-# ├── tests/                 # Pruebas unitarias e integración
-# ├── LICENSE                # Licencia del proyecto
-# ├── README.md              # Documento de introducción al proyecto
-# ├── requirements.txt       # Dependencias del proyecto
-# └── setup_neuronbit.sh     # Script de configuración automática
+├── docs/                  # Documentación completa del proyecto, incluyendo teoría, guías de uso y manuales.
+├── notebooks/             # Jupyter Notebooks interactivos para tutoriales y ejemplos prácticos.
+├── src/                   # Código fuente del modelo, algoritmos y funciones auxiliares.
+├── tests/                 # Pruebas unitarias e integración para validar el código.
+├── LICENSE                # Archivo de licencia del proyecto.
+├── README.md              # Documento de introducción y guía del proyecto.
+├── requirements.txt       # Listado de dependencias necesarias para ejecutar el proyecto.
+└── setup_neuronbit.sh     # Script de configuración automática del entorno.
+
+Descripción Detallada de Cada Carpeta y Archivo
+
+   •   docs/: Contiene documentación detallada que explica la teoría detrás de NEURONBIT, cómo funciona el modelo, y cómo se debe utilizar y colaborar en el proyecto. Puede incluir diagramas de arquitectura, guías de configuración, y ejemplos de implementación.
+   •   notebooks/: Esta carpeta alberga Jupyter Notebooks que muestran ejemplos prácticos y casos de uso. Estos notebooks son ideales para aprender interactuando con el código y explorando las simulaciones de la teoría cuántica y redes neuronales de NEURONBIT.
+   •   src/: Es el núcleo del proyecto, donde reside el código fuente. Incluye los módulos principales como neuronbit_model.py, que tiene las funciones para crear y entrenar modelos cuánticos, y cualquier otro archivo de Python necesario para la funcionalidad del proyecto.
+   •   tests/: Contiene scripts para pruebas unitarias y de integración. Aquí se verifica la funcionalidad del código, asegurando que cada módulo de NEURONBIT funcione correctamente y que los cambios futuros no rompan la estructura existente.
+   •   LICENSE: Archivo que especifica la licencia del proyecto, en este caso, se espera que sea una licencia abierta como MIT o similar. Define los términos de uso y distribución del código.
+   •   README.md: Es el documento introductorio del proyecto, que contiene la descripción general, instrucciones de instalación, uso básico, ejemplos, y pautas para contribuir. Es la primera referencia para los nuevos usuarios y colaboradores.
+   •   requirements.txt: Listado de todas las dependencias y paquetes de Python necesarios para ejecutar NEURONBIT. Al instalar este archivo, se asegura que todos los usuarios trabajen en un entorno similar.
+   •   setup_neuronbit.sh: Script que facilita la configuración automática del entorno, descargando y configurando las dependencias adicionales necesarias para el proyecto. Ayuda a reducir los pasos manuales de configuración y asegurar que todos trabajen en un entorno estandarizado.
+
+Esta estructura modular y bien organizada facilita el mantenimiento del proyecto y asegura que los colaboradores puedan orientarse rápidamente.
 
 ### Descripción de Carpetas Principales
 
