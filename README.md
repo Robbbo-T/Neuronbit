@@ -31,16 +31,16 @@ El proyecto utiliza herramientas avanzadas en computación cuántica, como Tenso
 
 La estructura de carpetas de NEURONBIT está organizada de la siguiente manera:
 
-NEURONBIT/
+# NEURONBIT/
 │
-├── docs/                  # Documentación completa del proyecto
-├── notebooks/             # Jupyter Notebooks interactivos para tutoriales y ejemplos
-├── src/                   # Código fuente del modelo y funciones auxiliares
-├── tests/                 # Pruebas unitarias e integración
-├── LICENSE                # Licencia del proyecto
-├── README.md              # Documento de introducción al proyecto
-├── requirements.txt       # Dependencias del proyecto
-└── setup_neuronbit.sh     # Script de configuración automática
+# ├── docs/                  # Documentación completa del proyecto
+# ├── notebooks/             # Jupyter Notebooks interactivos para tutoriales y ejemplos
+# ├── src/                   # Código fuente del modelo y funciones auxiliares
+# ├── tests/                 # Pruebas unitarias e integración
+# ├── LICENSE                # Licencia del proyecto
+# ├── README.md              # Documento de introducción al proyecto
+# ├── requirements.txt       # Dependencias del proyecto
+# └── setup_neuronbit.sh     # Script de configuración automática
 
 ### Descripción de Carpetas Principales
 
