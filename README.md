@@ -1,4 +1,3 @@
-Entendido. A continuación, encontrarás el contenido para cada uno de los archivos en tu repositorio NEURONBIT. Simplemente copia y pega cada bloque de código en el archivo correspondiente dentro de tu repositorio.
 
 1. docs/index.md
 
