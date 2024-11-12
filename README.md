@@ -1,6 +1,8 @@
 # NEURONBIT
 
-Con ** NeuronBit ** 
+NEURONBIT: Una Teoría Cuántica para la Estructura del Universo a través de Redes Neuronales Cósmicas
+
+Con ** #NeuronBit ** 
 
 # nace el uso de recursos de computación distribuida para aproximar comportamientos cuánticos sin necesidad de hardware cuántico. La estructura guía al lector desde los fundamentos teóricos hasta la implementación y evaluación de resultados, enfocándose en cómo los sistemas clásicos pueden emular principios cuánticos para explorar fenómenos cosmológicos y desarrollar inteligencia artificial avanzada.
 
